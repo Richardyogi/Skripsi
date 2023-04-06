@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/DocumentResult/DocumentResultRochio.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/query_reader/QueryReaderCranfield.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/FXMLChartRecallRochioController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/Path/PathDocument.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/RelevanceFeedback/ProbabilisticFeedback.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/FXMLChartRecallProbabilisticController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/WeightingTerm/TfIdfWeight.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/cranfield_collection/CranfieldDocument.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/cranfield_collection/CranfieldTextCollection.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/FXMLChartPrecisionProbabilisticController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/indexer/CranfieldIndexer.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/indexer/CranfieldHandlerDocument.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/searcher/SearcherRochio.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/dataQuery/CranfieldQuery.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/FXMLChartPrecisionRochioController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/searcher/SearchCranfieldRochioController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/FXMLDocumentController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/indexer/ReadDocumentIndex.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/searcher/SearchCranfieldProbabilisticController.java</file>
+            <file>file:/D:/Skripsi/Program%20Skripsi/Relevance%20Feedback/src/dataQuery/CranfieldRelevanceQuery.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Relevance Feedback.jnlp">
+  <information>
+    <title>Relevance Feedback</title>
+    <vendor>richa</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\lucene-analyzers-common-7.3.1.jar" size="1624208" download="eager" />
+    <jar href="lib\lucene-core-7.3.1.jar" size="2847556" download="eager" />
+    <jar href="lib\lucene-queryparser-7.3.1.jar" size="384728" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Relevance Feedback" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="RelevanceFeedbackDocument"  name="Relevance Feedback" />
+  <update check="always"/>
+</jnlp>
